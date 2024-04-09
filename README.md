@@ -1,5 +1,5 @@
 
-> Open this page at [https://shajithmukundan.github.io/trial/](https://shajithmukundan.github.io/trial/)
+> Open this page at [https://shajithmukundan.github.io/trial/](https://shajithmukundan.github.io/makerminds/)
 
 ## Use as Extension
 
